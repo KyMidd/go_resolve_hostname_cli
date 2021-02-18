@@ -5,6 +5,12 @@ Command-line tool written in go to resolve a single hostname. This is my first (
 
 # Usage
 
-First compile the tool: go build
+First compile the tool: 
+```
+go build
+```
 
-Then run the tool with a DNS name argument: ./go_resolve_hostname_cli --host www.google.com
+Then run the tool with a DNS name argument: 
+```
+./go_resolve_hostname_cli --host www.google.com
+```
